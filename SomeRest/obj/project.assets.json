@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Microsoft.NETCore.App >= 3.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\VZarubin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projects\\NetCommunity\\RestCreate\\SomeRest\\SomeRest.csproj",
+      "projectName": "SomeRest",
+      "projectPath": "C:\\Projects\\NetCommunity\\RestCreate\\SomeRest\\SomeRest.csproj",
+      "packagesPath": "C:\\Users\\VZarubin\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\NetCommunity\\RestCreate\\SomeRest\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\VZarubin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.App": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[3.0.0, )",
+            "autoReferenced": true
+          }
+        }
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App with version (>= 3.0.0)\r\n  - Found 69 version(s) in nuget.org [ Nearest version: 3.0.0-preview5-27626-15 ]\r\n  - Found 2 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 1.0.1 ]",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
+}
