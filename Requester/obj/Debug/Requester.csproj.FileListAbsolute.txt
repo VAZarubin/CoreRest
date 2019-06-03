@@ -1,0 +1,13 @@
+C:\Projects\NetCommunity\RestCreate\Requester\bin\Debug\Requester.exe
+C:\Projects\NetCommunity\RestCreate\Requester\bin\Debug\Requester.pdb
+C:\Projects\NetCommunity\RestCreate\Requester\bin\Debug\Flurl.dll
+C:\Projects\NetCommunity\RestCreate\Requester\bin\Debug\Flurl.Http.dll
+C:\Projects\NetCommunity\RestCreate\Requester\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\NetCommunity\RestCreate\Requester\bin\Debug\Flurl.xml
+C:\Projects\NetCommunity\RestCreate\Requester\bin\Debug\Flurl.Http.xml
+C:\Projects\NetCommunity\RestCreate\Requester\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\NetCommunity\RestCreate\Requester\obj\Debug\Requester.csprojAssemblyReference.cache
+C:\Projects\NetCommunity\RestCreate\Requester\obj\Debug\Requester.csproj.CoreCompileInputs.cache
+C:\Projects\NetCommunity\RestCreate\Requester\obj\Debug\Requester.csproj.CopyComplete
+C:\Projects\NetCommunity\RestCreate\Requester\obj\Debug\Requester.exe
+C:\Projects\NetCommunity\RestCreate\Requester\obj\Debug\Requester.pdb
