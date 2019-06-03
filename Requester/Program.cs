@@ -3,7 +3,6 @@ using System.Threading;
 using System.Threading.Tasks;
 using Flurl.Http;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 
 namespace Requester
 {
@@ -31,8 +30,6 @@ namespace Requester
                     Console.WriteLine(rr);
 
                 }
-
-
             }, token.Token);
             
             Console.WriteLine("Press any key to Exit");
